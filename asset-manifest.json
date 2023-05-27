@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cendrol-assignment/static/css/main.b1370deb.css",
+    "main.js": "/cendrol-assignment/static/js/main.bee02eee.js",
+    "index.html": "/cendrol-assignment/index.html",
+    "main.b1370deb.css.map": "/cendrol-assignment/static/css/main.b1370deb.css.map",
+    "main.bee02eee.js.map": "/cendrol-assignment/static/js/main.bee02eee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1370deb.css",
+    "static/js/main.bee02eee.js"
+  ]
+}
